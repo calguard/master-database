@@ -1,16 +1,6 @@
-FirstName,MiddleName,LastName,Birthdate,City,Sex
-Jonathan,M,Smith,1990-01-15,New York,M
-Jane,A,Doe,1985-05-20,Los Angeles,F
-William,B,Williams,1982-03-10,Chicago,M
-Emily,C,Brown,1995-11-22,Houston,F
-Michael,K,Jones,1988-07-30,Phoenix,M
-Maria,S,Garcia,1992-09-18,Philadelphia,F
-David,R,Miller,1979-12-05,San Antonio,M
-Susan,L,Davis,1986-04-12,San Diego,F
-Jonathan,P,Rodriguez,1998-02-28,Dallas,M
-Jessica,T,Martinez,1991-08-14,San Jose,F
-Jonathan,M,Smith,1990-01-15,New York,M
-Jane,A,Doe,1985-05-20,Los Angeles,F
-William,B,Williams,1982-03-10,Chicago,M
-Emily,C,Brown,1995-11-22,Houston,F
-UNIQUE, MASTER M.,2001-01-01,Boston,F
+first_name,middle_name,last_name,suffix,birthdate,city,sex
+Juan,Cruz,Dela Cruz,Jr,1990-05-12,Manila,M
+Maria,Luisa,Gonzalez,,1992-03-09,Cebu,F
+Jose,Antonio,Ramos,III,1974-12-14,Manila,M
+Anna,Marie,Garcia,,1994-04-10,Davao,F
+Carlos,Andres,Dela Cruz,,1996-03-15,Manila,M
